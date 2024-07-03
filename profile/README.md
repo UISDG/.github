@@ -1,9 +1,9 @@
-# Welcome to MSMG
-## the mildy small memer group
+# Welcome to UISW
+## the Untitled Image Sharing Website
 
 we exist to make <b><i>extraordinary</i></b> websites.
 <br>
-we are a group of memers and programmers who love freedom and hate money.
+we are a group of programmers who love freedom and hate money.
 <br>
 everything we make will be free forever.
 
